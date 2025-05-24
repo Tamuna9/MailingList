@@ -31,7 +31,7 @@ A simple Spring Boot web application for sending emails to different user groups
 id,name,type,email
 1,John Smith,employee,john.smith@example.com
 2,Jane Doe,customer,jane.doe@example.com
-3,Alice Admin,administrator,alice.admin@example.com
+3,Alice Admin,administrator,alice.admin@example.com.
 
 📝 To Do / Improvements
 Add support for multiple recipients
